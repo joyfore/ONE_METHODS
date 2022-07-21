@@ -23,7 +23,7 @@ class one_method {
         return "hello" + name;
     }
 
-    public static void man(String[] args) {
+    public static void main(String[] args) {
         ily();
         System.out.println(EvilDumplings("Evil"));
         System.out.println("Hello world!");
